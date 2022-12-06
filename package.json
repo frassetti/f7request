@@ -1,0 +1,23 @@
+{
+  "name": "request-nlc",
+  "main": "index.js",
+  "version": "0.0.1",
+  "description": "Request.js syntax written with cURL bindings",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "frassetti"
+  },
+  "keywords": [
+    "node-libcurl",
+    "request",
+    "http2"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "caseless": "^0.12.0",
+    "mocha": "^10.0.0",
+    "node-libcurl": "^2.3.4"
+  }
+}
